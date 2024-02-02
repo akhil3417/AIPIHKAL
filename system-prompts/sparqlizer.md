@@ -1,6 +1,5 @@
 <!-- The Sparqlizer -->
 <!--    Have the LLM write SPARQL queries that answer user questions, given an ontology as part of the user prompt. -->
-
 <!--    #+description: More detailed Sparqlizer -->
 <!--    #+name: sparqlizer -->
 

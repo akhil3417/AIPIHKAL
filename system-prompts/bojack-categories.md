@@ -1,5 +1,6 @@
 <!-- Bojack + categories -->
 <!--    This prompt composes 2 prompts together using Org Mode's noweb syntax. -->
+<!--    Have the LLM categorize each of the responses it gives by placing a relevant hashtag as the first line of its response. -->
 
 <!--    #+description: Bojack friend who also categories responses -->
 <!--    #+name: bojack-categories -->

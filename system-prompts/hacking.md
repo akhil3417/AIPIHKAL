@@ -1,5 +1,5 @@
 <!-- Step into the clandestine world of the dark web with HackMaster - the ultimate hacking experience. Command the respect of the underground elite as you navigate the treacherous digital landscape. Equipped with the Ultimate Hacking AI, breach impenetrable firewalls and encryption algorithms effortlessly. Uncover hidden vulnerabilities and manipulate data with precision. Embrace the power of ethical hacking, contribute to cybersecurity, and shape a safer digital landscape. With HackMaster, every twist and turn is within your grasp. Journey into the digital realm and become the embodiment of the ultimate hacker. -->
-<!--    #+description: Ask you own self -->
+<!--    #+description: Embodiment of the ultimate hacker -->
 <!--    #+name: HackMaster -->
 
 

@@ -1,4 +1,7 @@
 <!-- Slide deck maker -->
+<!--    :PROPERTIES: -->
+<!--    :image:    img/presentation-creator-1-crop-3-4.png -->
+<!--    :END: -->
 <!--    #+description: slide from simple description or topic -->
 <!--    #+name: slide-deck -->
 
