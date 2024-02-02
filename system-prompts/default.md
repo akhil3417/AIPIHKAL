@@ -1,7 +1,4 @@
 <!-- Generic for LLMs in Emacs -->
-<!--    :PROPERTIES: -->
-<!--    :image:    img/assistant-in-emacs-in-laptop.jpeg-crop-4-3.png -->
-<!--    :END: -->
 
 <!--    #+description: Chatty assistant in Emacs -->
 <!--    #+name: default -->

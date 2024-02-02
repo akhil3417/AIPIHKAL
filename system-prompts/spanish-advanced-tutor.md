@@ -1,7 +1,4 @@
 <!-- Spanish conversation partner -->
-<!--    :PROPERTIES: -->
-<!--    :image:    img/Sancho_Panza_and_Don_Quixote_open-air-cafe_01.png -->
-<!--    :END: -->
 <!--    This one is a work in progress - starting with prompts suggested by LLMs! -->
 
 <!--    The update from the poderoso GPT-4: -->

@@ -1,7 +1,4 @@
 <!-- Bojack + categories -->
-<!--    :PROPERTIES: -->
-<!--    :image:    img/bojack-bojack-categorizing-everything.jpeg-crop-4-3.png -->
-<!--    :END: -->
 <!--    This prompt composes 2 prompts together using Org Mode's noweb syntax. -->
 
 <!--    #+description: Bojack friend who also categories responses -->
